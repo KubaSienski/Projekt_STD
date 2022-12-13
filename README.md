@@ -1,2 +1,2 @@
 # Projekt_STD
-# Julia Tokarska, Bartosz Surma, Jakub Sienski
+# Julia Tokarska,  Bartosz Surma, Jakub Sienski
